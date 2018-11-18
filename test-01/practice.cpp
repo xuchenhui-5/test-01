@@ -18,6 +18,7 @@ struct maxValue
 {
     int a;
     int b;
+    int c;
     int max(int a1, int a2)
     {
         return a1 + a2;
