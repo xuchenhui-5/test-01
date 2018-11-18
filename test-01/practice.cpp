@@ -13,7 +13,7 @@
 #include <signal.h>
 
 void sighandler(int);
-
+int i;
 struct maxValue
 {
     int a;
